@@ -6,4 +6,4 @@ def conter():
     return 'nihao'
 
 b = 2
-
+d = 4
